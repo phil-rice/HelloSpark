@@ -1,0 +1,9 @@
+This is the code to support a number of blogs
+
+
+http://phil-rice.github.io/2015/11/11/Accessing-text-files-from-Scala.html
+http://phil-rice.github.io/2015/11/11/Inserting-data-to-database-tables-with-scala.html
+http://phil-rice.github.io/2015/11/11/Inserting-master-slave-data-to-database-tables-with-scala.html
+http://phil-rice.github.io/2015/11/12/Apache-Spark-Getting-Going.html
+
+It was initially just going to be an introduction to Spark, but there was too much file reading and database work for that

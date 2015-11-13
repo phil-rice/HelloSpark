@@ -1,0 +1,32 @@
+*.class
+*.log
+*.cache-main
+*.cache-tests
+bin/
+src/main/resources/CIF_ALL_FULL_DAILY.json
+# sbt specific
+.DS_Store
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea/
+.classpath
+.project
+**/.settings/**
+
+data/dbms/auth
+orcats_files/**
+
+
